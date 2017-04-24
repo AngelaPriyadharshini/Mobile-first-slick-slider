@@ -47,7 +47,8 @@ This is a beautiful slick slider that can be used in wide range of devices. Writ
 
 ### Requirements
 
-jQuery 1.7 or later
+- jQuery 1.7 or later
+- Bootstrap
 
 ### Browser support
 
