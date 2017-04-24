@@ -57,4 +57,4 @@ Tested: Chrome 57, IE 10 & 11, Opera 44, Edge 38
 
 ### Attribution
 
-Inspired by [Slick - Ken Wheeler] (http://kenwheeler.github.io/slick/)
+Inspired by [Slick - Ken Wheeler](http://kenwheeler.github.io/slick/)
